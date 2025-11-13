@@ -1,10 +1,10 @@
 # Bussiness_Inteligence_Analysis
 
 ## About Dataset : 
-1] Total Records: 11,251  
-2] Total Columns: 15  
+### 1] Total Records: 11,251  
+### 2] Total Columns: 15  
 
-3] Attributes  
+### 3] Attributes  
     a] User_ID	(Unique customer ID)  
     b] Cust_name	(Customer name)  
     c] Product_ID	(Product identifier)  
